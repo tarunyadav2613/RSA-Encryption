@@ -33,5 +33,5 @@ This is a Flask-based web application that demonstrates **RSA encryption and dec
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/tarunyadav2613/RSA-Encryption.git
+   cd Rsa-Encryption
